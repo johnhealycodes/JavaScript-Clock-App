@@ -1,0 +1,41 @@
+body {
+    background: black;
+}
+
+.frog {
+    position: absolute;
+    max-width: 100px;
+    max-height: 100px;
+    top:55%;
+    left: 0%;
+    font-family: 'Oxygen', sans-serif;
+    letter-spacing: 7px;
+}
+.YEP {
+    color: white;
+    position: absolute;
+    top: 20%;
+    left: 48%;
+}
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: white;
+    font-size: 60px;
+    font-family: 'Oxygen', sans-serif;
+    letter-spacing: 7px;
+   
+}
+
+.date {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: white;
+    font-size: 60px;
+    font-family: 'Oxygen', sans-serif;
+    letter-spacing: 7px;
+}
